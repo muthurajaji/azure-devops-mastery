@@ -1,6 +1,3 @@
-# azure-devops-mastery
-
-
 🚀 AZ-104 + AZ-400 Full Master Plan
 
 Total Duration: ~75 Days
