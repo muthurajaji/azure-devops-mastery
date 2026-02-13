@@ -230,3 +230,19 @@ Weak area fixing
 Scenario-based questions
 
 Final revision
+
+
+
+🧠 Series Roadmap
+
+Days 1–5 → Basics
+
+Days 6–15 → DevOps usage
+
+Days 16–25 → Cloud/Linux
+
+Days 26–35 → Kubernetes/Linux
+
+Days 36–45 → Security/Linux
+
+Days 46–60 → Production/Linux
